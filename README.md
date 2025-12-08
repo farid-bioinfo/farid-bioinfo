@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Farid 
 
-<!--
-**farid-bioinfo/farid-bioinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bioinformatics graduate with expertise in Python and R programming for biological data analysis. Trained in statistical processing, next-generation sequencing (RNA-Seq, ChIP-seq), and genomic data visualization. Currently building a portfolio showcasing computational biology projects and seeking bioinformatics research positions in London.
 
-Here are some ideas to get you started:
+🔬 Skills
+- **Languages:** Python, R
+- **Analysis:** Statistical modeling, NGS data processing
+- **Tools:** RStudio, Jupyter, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧬 Research Interests
+Gut-brain axis, neurodevelopmental conditions, omics techniques
+
+📫 Connect
+- LinkedIn: [linkedin.com/in/farid-hakimi-32525a45](https://www.linkedin.com/in/farid-hakimi-32525a45)
+- Location: London, UK
