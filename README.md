@@ -29,9 +29,10 @@ Bioinformatics researcher with a strong foundation in biological sciences and qu
 - Statistical modelling of multifactorial influences on neurodevelopmental outcomes
 - **Key Finding:** 73% variance explained, sleep identified as strongest predictor
 
-**[Gut-Brain Interaction Effects Study]** 🔬 *Coming Soon*
+**[Gut-Brain Interaction Effects Study](https://github.com/farid-bioinfo/gut-brain-interaction-effects)** ✅
 - Advanced statistical modelling exploring synergistic effects between gut microbiome composition and dietary interventions
 - Application of interaction terms to personalised intervention design
+- **Key Finding:** Diversity effect depends on diet quality (p<0.001), demonstrating context-dependent mechanisms
 
 **[16S rRNA Analysis Pipeline]** 🔬 *In Development*
 - Microbiome profiling pipeline for gut-brain axis studies
@@ -57,10 +58,11 @@ Foundational biostatistics and programming projects demonstrating technical comp
 - **Technologies:** R (base statistics, lm, car package)
 - **Key Finding:** Sleep shows strongest effect (β=-3.59, p<0.001) with 22.8-point practical impact
 
-**[Interaction Effects Modeling]** 🔬 *Coming Soon*
-- Advanced regression with interaction terms
-- Variable centering and multicollinearity management
-- ANOVA-based model comparison
+**[Interaction Effects Modelling: Gut-Brain Synergistic Effects](https://github.com/farid-bioinfo/gut-brain-interaction-effects)** ✅
+- Advanced regression with interaction terms exploring synergy between gut diversity and diet quality
+- Variable centering and multicollinearity management  
+- **Technologies:** R (base statistics, ggplot2)
+- **Key Finding:** Significant interaction (F=13.77, p<0.001) shows diminishing returns pattern
 
 ### Data Analysis & Visualisation
 
