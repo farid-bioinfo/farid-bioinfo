@@ -24,9 +24,10 @@ Bioinformatics researcher with a strong foundation in biological sciences and qu
 
 ### Gut-Brain Axis Research
 
-**[Microbiome Diversity & ASD Anxiety Analysis]** 🔬 *Coming Soon*
+**[Microbiome Diversity & ASD Anxiety Analysis](https://github.com/farid-bioinfo/multiple-regression-asd-anxiety)** ✅
 - Multiple regression analysis examining relationships between gut microbiome diversity, diet quality, sleep, and anxiety in ASD
 - Statistical modelling of multifactorial influences on neurodevelopmental outcomes
+- **Key Finding:** 73% variance explained, sleep identified as strongest predictor
 
 **[Gut-Brain Interaction Effects Study]** 🔬 *Coming Soon*
 - Advanced statistical modelling exploring synergistic effects between gut microbiome composition and dietary interventions
@@ -50,10 +51,11 @@ Foundational biostatistics and programming projects demonstrating technical comp
 - **Technologies:** Python (pandas, matplotlib), R (base statistics)
 - **Key Finding:** Significant 22.2 mmHg difference (t=6.23, p<0.001)
 
-**[Multiple Regression Analysis]** 🔬 *Coming Soon*
+**[Multiple Regression Analysis: Anxiety Predictors in ASD](https://github.com/farid-bioinfo/multiple-regression-asd-anxiety)** ✅
 - Multifactorial analysis of anxiety predictors in ASD cohort
-- 4-variable model (sleep, gut diversity, diet, inflammation)
-- Model comparison and practical significance assessment
+- 4-variable model (sleep, gut diversity, diet, inflammation) - R²=0.728
+- **Technologies:** R (base statistics, lm, car package)
+- **Key Finding:** Sleep shows strongest effect (β=-3.59, p<0.001) with 22.8-point practical impact
 
 **[Interaction Effects Modeling]** 🔬 *Coming Soon*
 - Advanced regression with interaction terms
