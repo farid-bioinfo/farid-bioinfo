@@ -9,7 +9,7 @@ Master's graduate in Bioinformatics and Biostatistics (UCAM, Grade: 9.43/10) wit
 ## 🎓 Education
 
 | Degree | Institution | Year | Grade |
-|--------|------------|------|-------|
+|--------|-------------|------|-------|
 | **MSc Bioinformatics & Biostatistics** | Universidad Católica San Antonio (UCAM) / CEMP | 2025 | 9.43/10 |
 | MSc Biomedical Science (Medical Microbiology) | Middlesex University | 2013 | Merit |
 | BSc (Hons) Biological Science | Middlesex University | 2011 | 2:1 |
@@ -23,16 +23,23 @@ PRISMA 2020-compliant systematic review analysing 46+ studies on probiotic inter
 Exploratory data analysis with hypothesis testing (t-tests, ANOVA, regression) using Python and R. Full documentation and reproducible methodology.
 
 ## 🛠️ Skills
+
 - **Languages:** Python (pandas, NumPy, SciPy, matplotlib), R (tidyverse, ggplot2)
 - **Statistics:** Hypothesis testing, regression, ANOVA, meta-analysis
 - **Bioinformatics:** Omics data analysis, NGS concepts (RNA-Seq, ChIP-seq), BLAST
 - **Tools:** RStudio, Jupyter, Git/GitHub, Unix/Bash
 - **Lab:** PCR, DGGE, bacterial culture, ISO compliance
 
-## 🧬 Research Interests
-Gut-brain axis · Microbiome · Autism spectrum disorder · Probiotic interventions · Translational bioinformatics
+## 📜 Credentials
 
-## 📫 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/farid-hakimi-32525a45)
-- 📧 fh.faridhakimi@gmail.com
-- 📍 London, UK
+View my academic certificates and professional credentials: [farid-bioinfo/credentials](https://github.com/farid-bioinfo/credentials)
+
+## 📫 Contact
+
+- **Email:** faridmaqbool@gmail.com
+- **LinkedIn:** [linkedin.com/in/farid-maqbool](https://linkedin.com/in/farid-maqbool)
+- **Location:** London, UK
+
+---
+
+*Open to bioinformatics opportunities in NGS analysis, transcriptomics, and microbiome research*
