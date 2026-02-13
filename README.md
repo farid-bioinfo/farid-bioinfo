@@ -22,4 +22,4 @@ Gut-brain axis · Microbiome · Autism spectrum disorder · Probiotic interventi
 📫 Connect
 
 💼 LinkedIn
-📧 fh.faridhakimi@gmail.co
+📧 fh.faridhakimi@gmail.com
